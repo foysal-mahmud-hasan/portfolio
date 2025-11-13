@@ -21,7 +21,7 @@ Tech: JavaScript, TypeScript, React, Mantine, Tailwind CSS, Node.js, Express, La
 
 Contact: foysalmahmud.iub@gmail.com · +8801521334751
 LinkedIn: https://www.linkedin.com/in/foysal-mahmud-hasan/
-Portfolio: portfolio.com`
+Portfolio: https://foysal-mahmud-hasan-portfolio.vercel.app/`
 
 export const about = `About Me:
 Foysal Mahmud Hasan is a Full-Stack Developer based in Dhaka, Bangladesh with 2+ years of experience building web applications. My focus is on accessible, performant, and maintainable solutions, working primarily with JavaScript and TypeScript stacks.
@@ -46,7 +46,7 @@ Email:    foysalmahmud.iub@gmail.com
 Mobile:   +8801521334751
 GitHub:   ${github}
 LinkedIn: https://www.linkedin.com/in/foysal-mahmud-hasan/
-Portfolio: portfolio.com
+Portfolio: https://foysal-mahmud-hasan-portfolio.vercel.app/
 
 Feel free to reach out for collaborations or inquiries!`
 
